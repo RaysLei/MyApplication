@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="@integer/loading_anim_duration">
+        <rotate
+            android:drawable="@drawable/icon_loading"
+            android:fromDegrees="0"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:toDegrees="0" />
+    </item>
+    <item android:duration="@integer/loading_anim_duration">
+        <rotate
+            android:drawable="@drawable/icon_loading"
+            android:fromDegrees="45"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:toDegrees="45" />
+    </item>
+    <item android:duration="@integer/loading_anim_duration">
+        <rotate
+            android:drawable="@drawable/icon_loading"
+            android:fromDegrees="90"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:toDegrees="90" />
+    </item>
+    <item android:duration="@integer/loading_anim_duration">
+        <rotate
+            android:drawable="@drawable/icon_loading"
+            android:fromDegrees="135"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:toDegrees="135" />
+    </item>
+    <item android:duration="@integer/loading_anim_duration">
+        <rotate
+            android:drawable="@drawable/icon_loading"
+            android:fromDegrees="180"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:toDegrees="180" />
+    </item>
+    <item android:duration="@integer/loading_anim_duration">
+        <rotate
+            android:drawable="@drawable/icon_loading"
+            android:fromDegrees="225"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:toDegrees="225" />
+    </item>
+    <item android:duration="@integer/loading_anim_duration">
+        <rotate
+            android:drawable="@drawable/icon_loading"
+            android:fromDegrees="270"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:toDegrees="270" />
+    </item>
+    <item android:duration="@integer/loading_anim_duration">
+        <rotate
+            android:drawable="@drawable/icon_loading"
+            android:fromDegrees="315"
+            android:pivotX="50%"
+            android:pivotY="50%"
+            android:toDegrees="315" />
+    </item>
+</animation-list>
